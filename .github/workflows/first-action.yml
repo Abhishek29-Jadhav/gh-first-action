@@ -6,5 +6,6 @@ jobs:
     steps:
       - name: greeting
         run: echo "Jai Hind"
-  
+      - name: last greeting
+        run: echo Jai Maharashtra
   
